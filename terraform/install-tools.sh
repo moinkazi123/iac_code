@@ -78,3 +78,4 @@ helm install ingress-nginx ingress-nginx/ingress-nginx
 echo "Initialization script completed successfully."
 
 ###
+##
