@@ -58,7 +58,7 @@ variable "key_name" {
   type        = string
   default     = "aws-key"
 }
-
+#
 variable "instance_name" {
   description = "EC2 Instance name for the jumphost server"
   type        = string
